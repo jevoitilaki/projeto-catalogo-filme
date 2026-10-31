@@ -2,8 +2,6 @@
 
 Catálogo de filmes e séries desenvolvido com React e Tailwind CSS.
 
-![Lumina](https://lumina-catalogo.netlify.app)
-
 ## Sobre o projeto
 
 Lumina é uma plataforma de catálogo de filmes e séries com interface moderna e escura, inspirada em serviços de streaming. O projeto possui navegação entre seções, banners em destaque e carrosséis de conteúdo.
@@ -25,6 +23,10 @@ Lumina é uma plataforma de catálogo de filmes e séries com interface moderna 
 - Header fixo e responsivo com menu mobile
 - Indicador visual da página ativa no menu
 - Design escuro e moderno
+
+## Você pode ver o projeto em funcionamento no link abaixo:
+[Acessar a demonstração](https://lumina-catalogo.netlify.app)
+
 
 ## Como executar o projeto
 
