@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@theme {
+  /* Cores de Fundo, superfícies */
+  --color-bg: #0B0D12;
+  --color-surface: #11141C;
+  --color-surface-2: #171B25;
+
+  /* Cores de texto */
+  --color-text-light: #F3F2EE;
+  --color-text-dark: #131119;
+
+  /* Cores de destaque (Accent) */
+  --color-accent: #BDA3FF;
+  --color-accent-soft: #D4C0FF;
+  --color-cyan: #88D8DF;
+  --color-danger-soft: #FF8D83;
+
+  /* Botões */
+  --color-button-light: #EEEAF9;
+  --color-button-dark: #131119;
+}
+
+
+body {
+  font-family: "DM Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: var(--color-bg);
+  color: var(--color-text-light);
+}
+
+h1,
+h2,
+h3,
+.logo {
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.metadata,
+.eyebrow,
+.rating {
+  font-family: "DM Mono", monospace;
+}
+
